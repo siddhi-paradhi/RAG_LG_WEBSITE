@@ -1,0 +1,49 @@
+• Future proof enterprise platform
+for
+expansion
+with
+minimal
+production down time.
+Challenges
+• Customer wanted a production MAM
+and
+integration
+with
+existing
+Quantum online storage and archive
+library for automatic archival and
+retrieval as per the workflow
+• Customer
+wanted
+automated
+file
+processing workflow
+• Automated file-based ingest
+• Customized
+metadata
+form
+with
+granular rights
+• Automatic transcoding and encoding
+to the in-house format with QC report
+attached
+to
+the
+file
+and
+media
+information attached to the file
+• Workflow
+design
+tool
+to
+create
+multiple workflow and implement
+• Extend the MAM to play-out and
+automation - MAM in near future
+Media & Content Asset Management, Doordarshan Kendra
+Customer Situation
+• National Broadcaster looking for a Enterprise Media Asset Management Platform to 
+integrate with existing independent platform / departments.
+• Commedia was involved in Design, setup, installation, integration and testing for this 
+project.

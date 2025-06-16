@@ -1,0 +1,28 @@
+• They wanted to accommodate more number of subscribers using CA.
+Challenges
+• They had a need to bring the uplink and 
+video head end at a same site i.e. at their 
+main office.
+• Lower operability costs by utilizing less 
+satellite bandwidth; using latest advanced 
+compression technologies.
+• Migrate the existing conditional access to 
+more advanced & future proof CAS system.
+• Coordinate across 10 OEMs and logistics 
+management.
+• Maintain optimal costs to meet the budget 
+constraints.
+Actions Taken
+• Commedia performed an exhaustive  study 
+of the network infrastructure, uplink chain, 
+and existing capacities.
+• Recommended and successfully installed 
+new compression & RF system viz. new 
+generation of Encoders, Multiplexers of 
+Thomson Video Networks, Thor optical 
+fibre, CODAN outdoor BUCs, and  Prodelin
+antenna for IS-19 satellite uplink.
+Results and Benefits
+• Achieved premium video 
+quality and highest 
+performance.

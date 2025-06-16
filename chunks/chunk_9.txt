@@ -1,0 +1,49 @@
+Media Asset Management Installation and Integration
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2017 Commedia Solutions Pvt. Ltd.  All rights 
+reserved.
+Actions Taken
+• Commedia had to choose the
+solution/product keeping in mind
+the
+integration
+with
+existing
+workflow.
+• Commedia
+offered
+the
+Dalet
+MAM
+platform
+for
+seam-less
+integration
+with
+the
+existing
+online storage.
+• Commedia
+team
+trained
+the
+team
+to
+develop
+custom
+workflow.
+• Build the custom workflow for
+automatic file movement from
+ingest to distribution with manual
+approvals for QC.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No.

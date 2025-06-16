@@ -1,0 +1,21 @@
++91-22-2756 2333
+sales@commediaindia.com
+Global Network with Ship Borne Satellite Terminal  for ISRO 
+Customer Situation
+• ISRO plans to launch MARS Mission by PSLV, The PSLV telemetry data is received in the
+pacific ocean and relayed to Mission Head Quarters by Ship Borne Terminal
+• Mission critical network was to be setup from Pacific Ocean
+• Diversity Paths and redundancy should be implemented
+• Data and Voice was to supported
+Challenges
+• Right Mix of Diverse path, Satellite Gateways
+and Fibre paths
+• High Availability and Mission Critical Links.
+• Stringent
+timeline
+for
+the
+project
+implementation.
+• Coordinate across several Project Stake
+Holders.

@@ -1,0 +1,16 @@
+• Successful implementation of 
+the solution with better 
+bandwidth utilization and 
+scaled up features.
+• Large number of remote STBs 
+and users can be 
+accommodated using the new 
+CAS system.
+• A simple and flexible network 
+design and implementation.
+• Access to  ComMedia’s Video 
+head-end & RF expertise.
+Installation of new satellite uplink featuring MPEG-4 with Conditional Access
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. 
+Reproduction, distribution, or disclosure outside your company is prohibited without prior, 
+written consent. © 2013 Commedia Solutions Pvt. Ltd.  All rights reserved.

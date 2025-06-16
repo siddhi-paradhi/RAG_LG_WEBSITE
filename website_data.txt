@@ -1,0 +1,1367 @@
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+4.5 C Band  TVRO Terminal  for Turn Around Service in Singapore
+Customer Situation
+• Setup infrastructure for turn around service
+• Customer wanted a 4.5 M C Band Link Non Motorised antennas  
+• End to End System Integrator  for Site Survey , Foundation , Supply and Installation
+Challenges
+• Soil conditions not suitable for standard 
+foundation  
+• Stringent timeline for the project 
+implementation.
+• Space constraint in the Antenna Farm
+Actions Taken
+• Commedia choices of OEM for the project
+• Successful import of the goods by 
+coordinating with various agencies 
+• Successful Coordination across various 
+partners 
+• Successfully installed 4.5 GD Satcom 
+antenna & RF system  and modems etc and 
+completed the integration
+Results and Benefits
+• Right choice of partners and 
+solutions component
+• Best in class Foundation taking 
+care of local Conditions
+• Successful  and On time 
+implementation of the solution 
+• A simple and flexible network 
+design and implementation.
+• Access to  Commedia’s Satellite 
+head-end & RF expertise.
+4.5 TVRO Setup in C Band for Turn Around Service        
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2013 Commedia Solutions Pvt. Ltd.  All rights
+reserved.
+Results and Benefits
+• Successful
+installation
+&
+commissioning.
+• Proper planning and execution for
+speedy and timely delivery.
+• Customer can focus on their core
+areas of business and not worry
+about their networking needs.
+• Commedia
+completed
+the
+commissioning
+of
+the
+network
+infrastructure.
+Challenges
+• Dealing with strict timelines for the
+delivery.
+• Setting up of the Wireless Networking
+infrastructure for the customer.
+Actions Taken
+• Supported the client in designing of
+the
+Network
+&
+implementing
+the
+same.
+• Work on project management and
+system integration in a timely manner
+to ensure readiness at site.
+• Gave the customer a cost effective,
+ultra fast & reliable solution based on
+Ruckus Wireless.
+SITC of Networking Infrastructure for CeX Webuy, Mumbai  
+Customer Situation
+• CeX Webuy is a global technology platform for buying, selling and exchanging range of
+technology & entertainment products like cell phones, video games, computers, digital
+electronics, TVs , monitors and music CDs.
+• They were looking for a technology partner who could supply, integrate & commission
+their Networking infrastructure in Mumbai.
+Networking Infrastructure Setup
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, 
+or disclosure outside your company is prohibited without prior, written consent. 
+© 2017 Commedia Solutions Pvt. Ltd.  All rights reserved.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Results and Benefits
+• Successful
+installation
+&
+commissioning.
+• Proper planning and execution
+for speedy and timely delivery.
+• Customer can focus on their core
+areas of business and not worry
+about the IT & Networking needs.
+• Commedia
+provides
+complete
+support
+in
+managing
+the
+IT
+infrastructure.
+Challenges
+• Dealing with multiple technologies for
+the customer like CISCO, Polycom,
+Avaya.
+• Setting up of the complete IT &
+Networking
+infrastructure
+in
+a
+stipulated time frame.
+• Ensuring seamless support services
+Actions Taken
+• Supported the client in designing of
+the
+Network
+&
+implementing
+the
+same.
+• Work on project management and
+system integration in a timely manner
+to ensure readiness at site.
+• Continuous
+and
+round
+the
+clock
+support in the day to day IT &
+Networking support needs.
+SITC of Enterprise IT, Networking Infrastructure & Managed Services for 
+Chromaflo Technologies, Mumbai  
+Customer Situation
+• Chromaflo Technologies, one of the leading independent global suppliers of colorant
+systems, chemical and pigment dispersions in the world were looking at a partner who
+could supply, integrate & commission their IT & Networking infrastructure for them.
+• The scope of work involved handling complete telecom, IT and Networking areas at
+their office in Mumbai.
+IT, Networking Infrastructure & Managed Services
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, 
+or disclosure outside your company is prohibited without prior, written consent. 
+© 2017 Commedia Solutions Pvt. Ltd.  All rights reserved.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Results and Benefits
+• Implementation
+of
+the
+entire
+solution
+within
+customer
+specified timelines.
+• Single monitoring platform for all
+the
+services
+with
+multiple
+purposes.
+Challenges
+• Commedia had to ensure multiple activities
+like TS and SDI monitoring for all Disney
+existing and upcoming channels
+• Transition from normal SDI compliance
+monitoring
+to
+complete
+uplink
+and
+downlink chain monitoring
+• Disney wanted multiple things like multi-
+viewer,
+internal
+network
+related
+monitoring,
+TS
+monitoring
+for
+all
+the
+existing channels
+Actions Taken
+• Complete
+study
+of
+the
+Compliance
+monitoring requirement
+• Commedia
+offered
+industry
+trusted
+compliance monitoring solution which gave
+the customer complete flexibility for the
+different kinds of monitoring that they
+wanted.
+• Commedia ensured the complete solution
+was implemented with a Video Wall which
+ensured the broadcast and the revenue
+teams easy access to the network
+Compliance Monitoring Solution for Disney
+Customer Situation
+• Disney is looking at Compliance monitoring solution for their various channels
+• Commedia was involved in Design and setup of the Compliance Monitoring system
+Compliance Monitoring System Setup
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2016 Commedia Solutions Pvt. Ltd.  
+All rights reserved.
+Results and Benefits
+• Successful
+Implementation
+of
+best-in-class
+MAM
+and
+integration
+with
+the
+existing
+workflow.
+• Future proof enterprise platform
+for
+expansion
+with
+minimal
+production down time.
+Challenges
+• Customer wanted a production MAM
+and
+integration
+with
+existing
+Quantum online storage and archive
+library for automatic archival and
+retrieval as per the workflow
+• Customer
+wanted
+automated
+file
+processing workflow
+• Automated file-based ingest
+• Customized
+metadata
+form
+with
+granular rights
+• Automatic transcoding and encoding
+to the in-house format with QC report
+attached
+to
+the
+file
+and
+media
+information attached to the file
+• Workflow
+design
+tool
+to
+create
+multiple workflow and implement
+• Extend the MAM to play-out and
+automation - MAM in near future
+Media & Content Asset Management, Doordarshan Kendra
+Customer Situation
+• National Broadcaster looking for a Enterprise Media Asset Management Platform to 
+integrate with existing independent platform / departments.
+• Commedia was involved in Design, setup, installation, integration and testing for this 
+project.
+Media Asset Management Installation and Integration
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2017 Commedia Solutions Pvt. Ltd.  All rights 
+reserved.
+Actions Taken
+• Commedia had to choose the
+solution/product keeping in mind
+the
+integration
+with
+existing
+workflow.
+• Commedia
+offered
+the
+Dalet
+MAM
+platform
+for
+seam-less
+integration
+with
+the
+existing
+online storage.
+• Commedia
+team
+trained
+the
+team
+to
+develop
+custom
+workflow.
+• Build the custom workflow for
+automatic file movement from
+ingest to distribution with manual
+approvals for QC.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Global Network with Ship Borne Satellite Terminal  for ISRO 
+Customer Situation
+• ISRO plans to launch MARS Mission by PSLV, The PSLV telemetry data is received in the
+pacific ocean and relayed to Mission Head Quarters by Ship Borne Terminal
+• Mission critical network was to be setup from Pacific Ocean
+• Diversity Paths and redundancy should be implemented
+• Data and Voice was to supported
+Challenges
+• Right Mix of Diverse path, Satellite Gateways
+and Fibre paths
+• High Availability and Mission Critical Links.
+• Stringent
+timeline
+for
+the
+project
+implementation.
+• Coordinate across several Project Stake
+Holders.
+• Manage regulatory compliance
+Actions Taken
+• Commedia choices of partners for fulfilling
+the requirement of the customer
+• Successful
+import
+of
+the
+goods
+by
+coordinating with various agencies
+• Successful
+Coordination
+across
+various
+partners
+• Successfully installed orbit antennas & RF
+system
+and modems etc and
+completed
+integration
+Results and Benefits
+• Right choice of partners, Satellite
+Contours
+and
+solutions
+components
+• Successful implementation of the
+solution
+• Multiple paths and Diversity path,
+High Availability link
+• Successful
+operation
+and
+maintenance of network
+• A simple and flexible network
+design and implementation.
+• Access to
+Commedia’s Satellite
+head-end & RF expertise.
+High Availability Satellite Network with Diversity Paths       
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2013 Commedia Solutions Pvt. Ltd. 
+All rights reserved.
+Results and Benefits
+• Successful management of the
+NOC
+• Efficient
+and trained technical
+manpower
+for
+the
+Network
+Centre management.
+Challenges
+• Dealing
+with
+current
+complex
+Network
+• Compliance to Local bodies norms
+of Civil and Regulatory
+Actions Taken
+•
+Commedia’s skilled engineers are
+handling the Satcom operations
+based on iDirect VSAT technology
+at 45 ISRO centers all over India
+•
+The team maintains the video
+conferencing,
+voice
+and
+data
+networks
+for
+ISRO
+locations,
+remote
+node
+troubleshooting
+support
+&
+IOS
+upgradation
+&
+configuration services
+•
+Commedia
+personnel
+ensure
+around
+the
+clock
+network
+connectivity for the voice & data
+needs of the customer
+NOC Management, ISTRAC
+Customer Situation
+• Commedia had to provide ISTRAC, part of ISRO, technically skilled man power who can 
+handle the Satcom operations.
+NOC Management
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, 
+distribution, or disclosure outside your company is prohibited without prior, written consent. 
+© 2017 Commedia Solutions Pvt. Ltd.  All rights reserved.
+Results and Benefits
+•
+Presales support to the Telecom’s
+Global Enterprise team.
+•
+Smooth deployment of the complete
+network with best in class products.
+•
+Easy and seamless project rollout
+without any hit to business within the
+timeline promised.
+Challenges
+• Customer had multiple foreign locations
+where the solution was to be installed
+& commissioned.
+• Simultaneous deployment keeping in
+mind,
+the
+end
+customer
+has
+an
+emergency of solution deployment.
+• Solution to be future proof, ensuring
+International Quality Standards to be
+met.
+• Dealing with multiple OEMs and Multi
+site simultaneous rollout across India.
+Sales & Presales support on Global Enterprise Business for leading telecom’s 
+Global Business
+Customer Situation
+• Leading Indian telecom major’s global enterprise business team was looking for a
+partner who can provide presales solution and support which included Broadcast,
+Wired and wireless network connectivity across the Globe.
+• Commedia
+was
+involved
+in
+the
+Supply,
+Installation,
+Integration,
+testing
+and
+commissioning of this project.
+Supply, Installation, Integration, Testing, Commissioning & Support
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2016 Commedia Solutions Pvt. Ltd.  
+All rights reserved.
+Actions Taken
+•
+Commedia
+provided complete
+pre
+sales
+support
+for
+choosing
+the
+solution/product keeping in mind the
+end
+customer
+preferences,
+International Quality Standards.
+•
+Commedia
+provides
+complete
+technical solution design, support for
+the solution implementation.
+•
+Commedia team had to ensure the
+down time was taken during the non
+working
+hours
+at
+some
+sites
+as
+business could not be hampered.
+•
+Completed the installation within the
+stipulated
+timeframe
+in
+foreign
+locations.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Results and Benefits
+•
+Successful
+deployment
+of
+the
+complete network with best in class
+products.
+•
+Easy and seamless project rollout
+without any hit to business within
+the timeline promised.
+Challenges
+• Customer
+had
+a
+strict
+timeline
+received from the end customer for
+the rollout across India.
+• Non availability of down time at
+some locations.
+• Solution to be cost effective also &
+quality standards to be met.
+• Dealing with multiple OEMs and
+Multi site simultaneous rollout across
+India.
+Sales & Presales support on Wifi, Networking, leading telecom company’s 
+enterprise business in India
+Customer Situation
+• Leading Indian telecom major looking for a partner who can provide sales , presales
+solutions which included Wired and wireless network connectivity in India.
+• Commedia was involved in the Installation, Integration, testing and commissioning of
+this project.
+Installation, Integration, Testing, Commissioning & Support
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2015 Commedia Solutions Pvt. Ltd.  
+All rights reserved.
+Actions Taken
+•
+Commedia provided complete sales
+and pre sales support for choosing
+the
+solution/product
+keeping
+in
+mind
+the
+customer
+preferences,
+quality standard.
+•
+Commedia used its network across
+India to have a smooth rollout pan
+India.
+•
+Commedia
+provides
+complete
+technical support for the pre sales
+solution design based on the major
+networking
+,
+enterprise
+mobility
+based solutions, wifi solutions.
+•
+Commedia team had to ensure the
+down time was taken during the non
+working hours at some sites as
+business could not be hampered.
+•
+Completed the installation within
+the stipulated timeframe
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg : Hyderabad AP
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+1+1 Teleport for a premier Television station, Australia Continent
+Customer Situation
+• The Television Company was in the process of upgrading their existing broadcast for 
+higher quality & performance.
+• Had earlier satellite uplink Infrastructure at a remote location.
+• They wanted to accommodate more number of subscribers using CA.
+Challenges
+• They had a need to bring the uplink and 
+video head end at a same site i.e. at their 
+main office.
+• Lower operability costs by utilizing less 
+satellite bandwidth; using latest advanced 
+compression technologies.
+• Migrate the existing conditional access to 
+more advanced & future proof CAS system.
+• Coordinate across 10 OEMs and logistics 
+management.
+• Maintain optimal costs to meet the budget 
+constraints.
+Actions Taken
+• Commedia performed an exhaustive  study 
+of the network infrastructure, uplink chain, 
+and existing capacities.
+• Recommended and successfully installed 
+new compression & RF system viz. new 
+generation of Encoders, Multiplexers of 
+Thomson Video Networks, Thor optical 
+fibre, CODAN outdoor BUCs, and  Prodelin
+antenna for IS-19 satellite uplink.
+Results and Benefits
+• Achieved premium video 
+quality and highest 
+performance.
+• Successful implementation of 
+the solution with better 
+bandwidth utilization and 
+scaled up features.
+• Large number of remote STBs 
+and users can be 
+accommodated using the new 
+CAS system.
+• A simple and flexible network 
+design and implementation.
+• Access to  ComMedia’s Video 
+head-end & RF expertise.
+Installation of new satellite uplink featuring MPEG-4 with Conditional Access
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. 
+Reproduction, distribution, or disclosure outside your company is prohibited without prior, 
+written consent. © 2013 Commedia Solutions Pvt. Ltd.  All rights reserved.
+Results and Benefits
+• Successful implementation of the 
+Network 
+• Complete system integration of 
+Video Head across main and 4 
+remote locations 
+• Timely Execution of the project 
+• Training to the end user 
+Challenges
+•
+Dealing with Papua New Guinea 
+logistics to the country 
+•
+Stringent timelines   
+•
+Optimal costs to meet the budget 
+constraints 
+•
+Laying of Fibre cable  
+•
+Integration of Mux with ABB CAS 
+•
+Technical Support Services for 2 
+Months  
+Actions Taken
+•
+Complete study of the requirement, 
+built a design based on Thomson 
+Compression 
+•
+Planning ahead of the logistics and 
+rollout  
+•
+Meticulous installation of RF and 
+Compression 
+•
+Work on project management and 
+system integration solution 
+•
+Operational training of the staff 
+Video Head End setup for EMTV in Papua New Guinea
+Customer Situation
+• The customer was looking at building Video Head end for SD channel on IS19 using 
+Satellite and Optical Medias for their local TV Channel
+Video Head End using Satellite and Optical Medias
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2015 Commedia Solutions Pvt. Ltd.  
+All rights reserved.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+ComMedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad AP
+Ph No. +91-22-41234544
+sales@commediaindia.com
+Reduced OPEX per channel for a Regional  Channel, India
+Customer Situation
+• Used to uplink TV channels and wanted to add few more channels.
+• Wanted to ensure that space segment optimization was performed to be able to add 
+the new channels.
+Challenges
+• Utilize the existing online network to 
+reduce new installation costs.
+• Migrate the services on to a new MCPC 
+chain 
+• Implement a solution that was both 
+feasible and practical.
+• It was important to maintain optimal 
+costs to cater to the budget constraints.
+• Deliver within stringent timelines for 
+the channel to Go-live.
+Actions Taken
+• A comprehensive study of the network 
+infrastructure, backups  and the space 
+segment resource was made.
+• Devised an optimal  innovative solution 
+to help add more channels using 
+Harmonic Technology
+• Determined the areas of improvement 
+necessary to increase the existing 
+capacities.
+• Recommended new technology  
+innovations that would help the 
+customer to future-proof their network.
+Results and Benefits
+• Successful implementation of the 
+Commedia solution within the 
+agreed timelines.
+• The customer’s ready for service 
+date was also met.
+• Ability to successfully future-
+proof the existing networks and 
+transition to the new solution. 
+• Enhanced ability to uplink several 
+channels with a reduced OPEX 
+per channel.
+• A simple, yet flexible network 
+design and implementation.
+• The customer got the access to 
+ComMedia’s video head-end 
+expertise.
+Addition of new channels with a reduced OPEX per channel
+This document contains confidential proprietary information of ComMedia Ltd. 
+Reproduction, distribution, or disclosure outside your company is prohibited without 
+prior, written consent. © 2013 ComMedia Ltd. All rights reserved.
+Results and Benefits
+• Successful management of the 
+NOC
+• Skilled man power to handle the 
+operations.
+Challenges
+• Dealing with current Live Video 
+Network.
+• Handling day to day operations at 
+the Head end.   
+Actions Taken
+• Commedia’s skilled engineers 
+handle the regular teleport services 
+for uplinking & downlinking of the 
+channels for the teleport
+• Commedia manages the playout 
+services for regional channels & the 
+seed management services for a 
+popular sports channel in India
+• Commedia skilled & technical 
+personnel ensure seamless & 
+around the clock service support for 
+the smooth functioning of the 
+teleport  
+Video NOC Management, Bharti Airtel
+Customer Situation
+• Bharti Airtel Limited has setup Video NOC at Noida, UP from where almost 30 channels 
+are being uplinked to the various satellites
+•
+Commedia had to provide skilled manpower for the day to day teleport operation 
+services for this NOC
+NOC Management
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2013 Commedia Solutions Pvt. Ltd.  
+All rights reserved.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Results and Benefits
+• Successful implementation of the
+Streaming Solution.
+• A
+comprehensive
+system
+integration of video streaming
+completely scalable
+• A systematic timeline execution
+of the project performed.
+• Commedia’s access to the Video
+Head-end
+expertise
+demonstrated.
+• Streaming across all formats and
+across all devices demonstrated
+Challenges
+• Commedia
+had
+to
+deal
+with
+the
+existing complex online network.
+• The video streaming was expected to
+happen from on Internet Cloud
+• Had to maintain optimal costs to
+accommodate the customer’s budget
+constraints.
+• Sizing of the Users.
+Actions Taken
+• Commedia did a complete study of the
+network diagram, the existing work
+flow and equipment.
+• Additional focus was given to project
+management and a system integration
+solution.
+• We had to recommend a solution and
+the BOM gaps at the site
+• Solution Based on Harmonic VS7000
+and WOWZA.
+Video Streaming Solution for Leading  Telco and Digital Media Company 
+Customer Situation
+• The customer is a leading telecom and broadcaster in Papua New Guinea,  they plan to 
+extend the Broadcast TV to the Multiscreen Users
+• They were looking forward  to stream the video on the telecom’s private network
+Video Streaming Solution on private network
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, distribution, or 
+disclosure outside your company is prohibited without prior, written consent. © 2017 Commedia Solutions Pvt. Ltd.  All rights
+reserved.
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+Results and Benefits
+•
+Successful deployment of the 
+complete network with best in class 
+products.
+•
+Easy and seamless project rollout 
+without any hit to business within 
+the timeline promised.
+Challenges
+• Customer had a strict timeline as 
+they were setting up their offices in 
+India.
+• Non availability of down time at 
+some locations.
+• Solution to be cost effective also & 
+quality standards to be met.
+• Dealing with multiple OEMs and 
+Multi site simultaneous rollout across 
+India. 
+Wifi, Networking & Office Automation, Le Eco  - Bangalore, Gurugram & 
+Mumbai, India
+Customer Situation
+• Leading Chinese conglomerate looking for a IT solutions which included Wired and 
+wireless network connectivity and office automation across their 3 offices in India. 
+• Commedia was involved in the Supply, Installation, Integration, testing and 
+commissioning of this project.
+Supply, Installation, Testing and Commissioning
+Actions Taken
+•
+Commedia had to choose the 
+solution/product keeping in mind 
+the customer preferences, quality 
+standard. 
+•
+Commedia established the network 
+with Full Mesh topology and high 
+availability infrastructure.
+•
+Commedia offered the CISCO based 
+routers, switchers, firewall, wireless 
+controllers, access points, Avaya 
+based VOIP solutions platform, 
+Polycom’s AV conferencing system.
+•
+Commedia team had to ensure the 
+down time was taken during the non 
+working hours at some sites as 
+business could not be hampered.
+•
+Completed the installation within 
+the stipulated timeframe
+Commedia Solutions Pvt Ltd
+An ISO 9001:2008 Certified Company
+HQ  :  New Mumbai India
+Reg: Hyderabad, Telangana
+Ph No. +91-22-2756 2333
+sales@commediaindia.com
+This document contains confidential proprietary information of Commedia Solutions Pvt. Ltd. Reproduction, 
+distribution, or disclosure outside your company is prohibited without prior, written consent. 
+© 2017 Commedia Solutions Pvt. Ltd.  All rights reserved.
+Commedia Website Data 
+❖Verticals  
+o Telecom/Service providers: 
+Commedia works with some of the best Global telecom service providers in helping 
+them implement their networks and projects. For the service providers, we are 
+continuously engaging through various projects, understanding their requirements 
+and providing solutions as per the project needs. Some areas of work include - 
+• 
+ Setting up of connectivity networks / NOCs. 
+• 
+ Installation, Testing and Commissioning of servers / systems. 
+• 
+ Network / system upgradation or any transformation activities. 
+• 
+ Managed services for managing the telecom infrastructure, handling 
+transformation activities, etc. 
+• 
+ Software Solutions in the areas of Network Management, Billing , Data Mining 
+& Analytics, Data Optimization, Operations Support, Project Tools etc 
+ 
+o Digital media 
+Commedia is working closely with some of the major broadcasters in India and 
+abroad. Commedia’s experienced team handles all kinds of projects starting from 
+setting up a satellite / cable channel. 
+Within the broadcast and teleport ambit, Commedia indulges in a range of activities 
+including 
+• 
+ SITC of Turnkey projects / Headend / Teleport infrastructure projects. 
+• 
+ PCR / MCR / Studio setups. 
+• 
+ MAM/DAM, Storage & Archival solutions. 
+• 
+ ENG Cameras, News Room Control Systems, Online -Offline Graphics, Video 
+Graphics. 
+• 
+ OTT, IPTV, Streaming Solutions. 
+• 
+ DSNG, OB vans setup with fabrication. 
+• 
+ Compliance Monitoring, service level monitoring along the complete 
+transmission chain / QoS /QoE. 
+• 
+ SITC and Annual Maintenance of Television Receive antenna farms. 
+• 
+ Managed Services for broadcast related activities, event based activities like 
+audits, playout management, meta data tagging, quality check services. 
+ 
+o Enterprise 
+Commedia understands the modern day evolving needs of growing enterprise 
+companies. Commedia has been delivering round the clock projects on time where 
+customer’s IT and enterprise infrastructure projects are considered. In the enterprise 
+domain, Commedia is working closely with some of the best technologies to provide 
+its customers with a seamless, high end platform. Commedia is working with a range 
+of technologies like Dell, CISCO, AWS, HPE, Juniper, Avaya, Ruckus, Sonicwall. 
+Commedia engineers are trained and well versed with the various new technologies 
+coming up. 
+Some of the activities may include - 
+• 
+ SITC of wireless / wired networking enterprise solutions. 
+• 
+ SITC of IT Hardware & peripherals. 
+• 
+ SITC of Surveillance / CCTV solutions. 
+• 
+ SITC of Auditoriums / meeting rooms / conference halls. 
+• 
+ Support services for the enterprise segment. 
+ 
+o Government  
+Commedia is been working closely on a host of Government projects be it Prasar 
+Bharti, All India Radio, ISRO since its inception. Commedia is keen to associate with 
+more government bodies and work towards providing more technical solutions and 
+services. 
+• 
+ SITC of Broadcast related projects. 
+• 
+ SITC of all kinds of antenna installation projects. 
+• 
+ SITC of monitoring solutions. 
+• 
+ Managed services for the projects. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+❖Partners 
+o Digital Media 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o Enterprise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+❖Products and Solutions 
+ 
+o Wireless Solutions: 
+ Turnkey projects - Commedia undertakes complete solution design and deployment 
+which include Supply, Installation, Testing and Commissioning in the Wireless, Wireline or 
+Digital Media Solutions space. 
+ Managed Services - Commedia can provide skilled, technical engineers to run / handle 
+day to day operations especially in data centers, head ends, NOCs. Especially in the 
+enterprise area, Commedia provides skilled CCNA, CCNP certified L1, L2 & L3 engineers 
+who are capable to manage the complete enterprise data center / media headend 
+infrastructure. 
+The world is moving towards a more wireless environment especially with the explosion 
+of wireless solutions at a rapid pace. More and more wireless solutions are being 
+implemented as India is foreseeing multiple opportunities in this area. 
+ Wifi and Microwave - Commedia solutions work with a host of enterprise wifi solutions, 
+next generation technologies and has rolled out deployments in India and abroad. 
+Commedia has successfully executed CISCO based Meraki setups, Ruckus based wireless 
+setups. 
+Satellite / RF - Commedia’s team specializes in handling massive scale rollouts across 
+different geographies with ease. We have done multiple successful installations of C / Ku 
+BAND with different antenna makes like Andrew , Prodelin, Spacelink as per the customer’s 
+use case requirements. 
+ 
+o Wireline Solutions 
+ 
+ Turnkey projects - Commedia undertakes complete solution design and deployment 
+which include Supply, Installation, Testing and Commissioning in the Wireless, Wireline or 
+Digital Media Solutions space. 
+ Managed Services - Commedia can provide skilled, technical engineers to run / handle 
+day to day operations especially in data centers, head ends, NOCs. Especially in the 
+enterprise area, Commedia provides skilled CCNA, CCNP certified L1, L2 & L3 engineers 
+who are capable to manage the complete enterprise data center / media headend 
+infrastructure. 
+The networking enterprise grade solutions are seeing a complete change as technology is 
+evolving, the areas that Commedia is working around involves  - 
+Networking - We provide complete enterprise level network designing, network protection, 
+network management, supply and rollout services for the enterprise customers in India or 
+abroad. 
+IT Infrastructure - Complete setup of the IT infrastructure whether it be hybrid cloud 
+environment or in house IT requirements. Commedia caters to all kinds of IT requirements 
+including various kinds of servers, switches, routers, firewalls and other IT peripherals. 
+VOIP Solutions - Commedia can offer a range of VOIP / IP telephony services as per the 
+customer requirement. 
+ 
+Video Conferencing / Surveillance Solutions - For large offices, auditoriums, halls, video 
+conferencing or CCTV / surveillance  setup solutions can be designed and deployed by 
+Commedia. Other peripherals like biometrics, door access systems also can be provided 
+as part of the solution. 
+Digital Signage - For Banks, Retail outlets, Corporate houses all kinds of digital signage 
+solutions can be deployed including supply and installations. 
+ 
+ 
+ 
+o Digital media Solutions 
+Turnkey projects - Commedia undertakes complete solution design and deployment which 
+include Supply, Installation, Testing and Commissioning in the Wireless, Wireline or Digital 
+Media Solutions space.    
+Managed Services - Commedia can provide skilled, technical engineers to run / handle day to 
+day operations especially in data centers, head ends, NOCs. Especially in the enterprise area, 
+Commedia provides skilled CCNA, CCNP certified L1, L2 & L3 engineers who are capable to 
+manage the complete enterprise data center / media headend infrastructure. 
+In the digital domain, technologies like 4K/ 8K content, OTT / IPTV,  AR, VR, AI are the latest 
+buzzwords, where a lot of work is being done technology wise. Adaption of technology by the 
+broadcast industry is taking its own time, but we are seeing the industry testing and working 
+it out. Some of the key areas where Commedia  is working include -   
+Digital HeadEnd / Teleport - Commedia can design, supply and deploy the technical 
+infrastructure at Digital Headend / Teleport. The deployments are in line with International 
+standards followed globally. 
+Production Workflow - Our experts can design / optimise the production workflow / conduct 
+professional audits, provide valuable feedbacks & insights which will help streamline your 
+operational activities.Whether it be PCRs / MCRs / NOCs, Commedia has the hands on 
+experience to suggest the best solution. 
+Asset Management - As the industry is moving towards automated workflow, Commedia 
+experts have been dabbling with the asset management whether it be DAM/MAM. Commedia 
+is tied up with a range of solutions which will serve the purpose of managing the audio /video 
+assets for the customer. 
+Storage Solutions - Commedia provides a range of simple NAS /SAN based storage or large 
+scale intelligent storage / archive options based on the use case requirements with the 
+customers. Commedia also deals in cloud based storage deployments. 
+Monitoring Solutions - As the production environments are moving to a file based platforms, 
+consumption is getting multifold with OTT / IPTV coming into play. This is where QoE comes 
+into play and having a good customer experience matters. Commedia provides tools and 
+services to handle the complete monitoring part in a professional manner. 
+ 
+o Software Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+INDUSTRIES 
+ 
+ 
+ 
+• 
+ Telecom 
+• 
+ Entertainment 
+• 
+ Finance & Banking 
+• 
+ Manufacturing 
+• 
+ Retail 
+• 
+ Healthcare 
+• 
+ ISP’s 
+ 
+PRODUCTS & SOLUTIONS 
+• 
+ Network Management System 
+(cNMS) 
+• 
+ Billing Solutions 
+• 
+ Data Mining & Analytics 
+• 
+ Data Optimization 
+• 
+ Program Management Tool 
+• 
+ Operation Support Tool 
+• 
+ WFH monitoring solutions 
+• 
+ Healthcare Solutions 
+• 
+ Playout Manager Solution 
+• 
+ IOT Platform Manager Solution 
+ 
+TECHNOLOGIES 
+•  .NET 
+•  WPF & WCF 
+•  Android Application 
+•  iOS Application 
+•  Database Framework 
+•  Xamarin 
+•  C++ 
+ 
+o AWS cloud Solutions 
+ 
+Several solutions in specific areas such as Network Security, Digital Media and Satellite 
+Communications are implemented by Commedia and delivered successfully. 
+ 
+Clear benefits of our value added services includes: 
+• 
+ End to End Design, Deployment and Management 
+• 
+ 24x7 Global Network Operations Centre (GNOC) 
+• 
+ Technical expertise on call. 
+• 
+ Cloud enablement training 
+• 
+ Customized Solution as per customer requirement with Proof of Concept 
+• 
+ AWS Cloud Certified Individuals 
+ 
+❖ About  
+ 
+o Who we are  
+o 
+Commedia Solutions Pvt Ltd, headquartered in Mumbai, India is a young, vibrant company 
+with highly professional workforce committed to take world class solutions and services 
+to its customers. Commedia driven by passion takes pride in delivering unique products 
+and value added telecom, networking & media solutions to address the needs of its 
+customers in the digital world. 
+o 
+Commedia provides solutions and services across the Indian subcontinent and in the 
+emerging markets . The company has aggressive plans and is poised for very healthy 
+growth rate . The company believes in partnerships and has developed ecosystem of 
+partners to address the ever growing complex requirement of the customers. 
+o 
+The company specializes in providing end-to-end solutions in wireless, wireline and media 
+domain, this covers the entire gamut of services that includes design, build, operate, and 
+maintain. The company with its expertise and experience is investing disproportionate 
+efforts and has added set of rich in-house features to each of the solutions to present a 
+comprehensive offering to its customer. 
+ 
+ 
+❖Leadership 
+ 
+C S Raghava Rao 
+Founder & MD 
+He has 25 years of experience in the telecom industry that includes setting up of business, 
+business development, product development, service delivery, and contract management. He 
+has proven experience in establishing business, building customer relationships, leading 
+teams and delivering superior quality services. 
+He holds a degree in Electronics and Communication Engineer from NIT(REC) Warangal, and 
+a Management Graduate from SOM, IIT Powai. 
+Shri C Subba Rao 
+Director 
+Shri C Subba Rao received his Master in Engineering from JNTU Hyderabad. A dynamic and 
+versatile person and has demonstrated leadership skills in heading major functions in BHEL, 
+Hyderabad. His specialization includes managing Mega Projects, Commercial, Finance, 
+Contract Management, Program Management and Project Delivery. 
+With his vast industry experience of more than 40 years, he is a guiding force to the whole 
+team at Commedia Solutions. 
+ 
+C V Ramani 
+Director 
+Ms C V Ramani is postgraduate from Osmania University, Hyderabad. She has great expertise 
+in handling multidimensional assignments and has played anchoring role since inception. 
+She is the Director of Commedia Solutions Pvt Ltd and was instrumental in formation of 
+company. 
+ 
+ 
+ 
+Prof. G. Padmavati 
+Advisor Finance 
+She holds Masters Degree in commerce from Osmania Univeristy. She is currently working as 
+Finance Professor in IBS and has fifteen years of strong experience in Academics and various 
+managerial tasks at Icfai University and three years of professional experience as Articled 
+Trainee with M/S Komandoor & Co, a Chartered Accountant firm at Hyderabad  
+A Fellow Member of the Institute of Chartered Accountants of India. She holds a Chartered 
+Accountants Professional Degree from the Institute of Chartered Accountants of India, holds 
+Cost and Works Accountants (Intermediate) Degree from The Institute of Cost and Works 
+Accountants of India.  
+She is member of internal audit committee of the company. 
+ 
+Management Team 
+ 
+Harshad Awasare 
+Chief Operating Officer 
+Harshad has 18 years of experience in the field of Sales, Marketing and Business Development 
+of which 15 years have been spent in the telecom domain. He has now been associated with 
+Commedia from 2014 and has been driving the various Business verticals. He is handling both 
+global and domestic business for Commedia and responsible for sales of the company. 
+He has a degree in Engineering from SPCE, Mumbai and has done his Masters in Management 
+Studies from Jamnalal Bajaj Institute of Management Studies, Mumbai. 
+His past experiences include working in various capacities across organisations such as 
+Bharti Airtel, Philips, iSAT Africa and Ingram Micro. He has worked in multiple geographies 
+and has expertise in mentoring teams in Sales, Pre-sales and Product Management. 
+Subeeth Kotian 
+Vice President Commercial & Supply Chain 
+Subeeth has been associated with Commedia from 2013. He has a rich experience of over 30 
+years in the areas of supply chain and finance. He heads the Commercial, Supply Chain & 
+Admin functions for the organisation. 
+In his past endeavours, has headed the Supply chain function for Enterprise division (West) at 
+Bharti Airtel Ltd. 
+He specialises in handling international supplies and logistics for the projects which the 
+organisation undertakes. He has rich experience working across diverse industries like 
+Engineering and Pharmaceuticals also.  
+ 
+Sajan John 
+Vice President Service Delivery 
+Sajan has been associated with Commedia Since 2018. He heads the Service Delivery. He has 
+more than 17 years of rich experience in Telecom Engineering, Project Management and O&M. 
+He Leads multiple teams, Multiple Projects, Multiple Discipline, at multiple locations. He is 
+double CCIE having R&S and Security Expertise with proficiency in Design and implementation 
+of large scale IP/MPLS VPN Networks, SDH/PDH Networks. 
+ 
+❖ Achievements 
+o 1000+ project completed  
+o 100+ projects running 
+o Projects done in 95+ countries 
+ 
+ 
+❖Reach us  
+408, Shelton Cubix, Sector 15, Plot 87, CBD Belapur, Navi Mumbai, Maharashtra 400614 
+Contact us: +91 22 4965 8000 
+sales@commediaindia.com 
+ 
+ 
+ 
+ 
+ 

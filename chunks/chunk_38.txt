@@ -1,0 +1,11 @@
+Asset Management - As the industry is moving towards automated workflow, Commedia 
+experts have been dabbling with the asset management whether it be DAM/MAM. Commedia 
+is tied up with a range of solutions which will serve the purpose of managing the audio /video 
+assets for the customer. 
+Storage Solutions - Commedia provides a range of simple NAS /SAN based storage or large 
+scale intelligent storage / archive options based on the use case requirements with the 
+customers. Commedia also deals in cloud based storage deployments. 
+Monitoring Solutions - As the production environments are moving to a file based platforms, 
+consumption is getting multifold with OTT / IPTV coming into play. This is where QoE comes 
+into play and having a good customer experience matters. Commedia provides tools and 
+services to handle the complete monitoring part in a professional manner.
